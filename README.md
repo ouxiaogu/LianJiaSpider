@@ -10,3 +10,8 @@
 ###爬取数据的部分截图
 
 ![Aaron Swartz](https://github.com/lanbing510/LianJiaSpider/raw/master/screenshots/lianjia.jpg)
+
+## Useful Website
+
+1. online database read: https://sqliteonline.com/
+2. unicode转化汉字 汉字转化unicode编码: http://www.guabu.com/zhuanma/
